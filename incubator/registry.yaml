@@ -34,3 +34,6 @@ libraries:
   tomcat:
     version: master
     path: tomcat
+  nord-deployed-service:
+    version: master
+    path: nord-deployed-service
