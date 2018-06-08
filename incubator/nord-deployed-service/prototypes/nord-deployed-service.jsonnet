@@ -1,5 +1,5 @@
 // @apiVersion 0.1
-// @name io.ksonnet.pkg.deployed-service
+// @name io.ksonnet.pkg.nord-deployed-service
 // @description A service that exposes 'servicePort', and directs traffic to 'targetLabelSelector', at 'targetPort'.
 // @shortDescription A deployment exposed with a service
 // @param name string Name of the service and deployment resources
